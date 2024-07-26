@@ -1,0 +1,6 @@
+firstName lastName   age      city
+0      John      Doe  30.0  New York
+1      Anna    Smith  25.0    London
+2     Peter    Jones   NaN      None
+3     Linda     None  40.0    Berlin
+4      None   Taylor  22.0     Paris
